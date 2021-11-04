@@ -11,4 +11,4 @@ Overview of my research output (incl. pre-prints and conference papers).
 
 ## 2020
 
-- **Oberman, H. I.**, Buuren, S. van, & Vink, G. (2020). *Missing the Point: Non-Convergence in Iterative Imputation Algorithms* [conference paper]. ICML, ARTEMISS workshop. DOI: arxiv.org/abs/2110.11951v1. Download [here](https://hanneoberman.github.io/publications/2021/missing_the_point.pdf).
+- **Oberman, H. I.**, Buuren, S. van, & Vink, G. (2020). *Missing the Point: Non-Convergence in Iterative Imputation Algorithms* [conference paper]. ICML, ARTEMISS workshop. DOI: arxiv.org/abs/2110.11951v1. Download [here](https://hanneoberman.github.io/publications/2020/missing_the_point.pdf).
